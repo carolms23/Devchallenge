@@ -319,6 +319,7 @@ h3 {
 @media screen and (max-width: 414px) {
   .footer-conteudo {
     flex-direction: column;
+    justify-content: flex-end;
     padding:50px 0 50px 0;
   }
   .sobre-titulo{
